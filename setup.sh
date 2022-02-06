@@ -203,4 +203,9 @@ rm -f /root/tmp
 echo "3" > /home/ver
 clear
 rm -f setup.sh
+clear
+echo "<<<<<<<<Script is finish install >>>>>>>>"
+echo "<<<<<<<<Script is finish install >>>>>>>>"
+echo "<<<<<<<<Script is finish install >>>>>>>>"
+sleep 3
 reboot
